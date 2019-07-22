@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 16mhz
+D HC-49 16mhz Crystal
+$ENDCMP
+#
 #End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10uF
+D 10uf Electrolitic Capacitor
+$ENDCMP
+#
+$CMP 1uF
+D 1uf Electrolitic Capacitor
+$ENDCMP
+#
+#End Doc Library

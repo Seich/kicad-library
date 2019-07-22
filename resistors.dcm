@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 100K
+D 100k through-hole resistor
+$ENDCMP
+#
+$CMP 10K
+D 10k through-hole resistor
+$ENDCMP
+#
+$CMP 1k
+D 1k through-hole resistor
+$ENDCMP
+#
+$CMP 220
+D 220 through-hole resistor
+$ENDCMP
+#
+$CMP 3.9K
+D 3.9k through-hole resistor
+$ENDCMP
+#
+$CMP 470K
+D 470k through-hole resistor
+$ENDCMP
+#
 #End Doc Library

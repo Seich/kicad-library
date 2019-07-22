@@ -3,8 +3,8 @@ EESchema-LIBRARY Version 2.4
 #
 # .38mH
 #
-DEF .38mH L 0 40 Y N 1 L N
-F0 "L" 80 231 50 H V L BNN
+DEF .38mH L 0 40 Y N 1 F N
+F0 "L" 125 125 50 H V L BNN
 F1 ".38mH" 100 0 50 H V L BNN
 F2 "" 0 0 50 H I L BNN
 F3 "" 80 231 50 H I L BNN

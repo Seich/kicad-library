@@ -1,13 +1,13 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# LED_5mm
+# red
 #
-DEF LED_5mm D 0 40 Y Y 1 L N
-F0 "D" 0 150 50 H V L BNN
-F1 "LED_5mm" -80 -150 50 H V L BNN
+DEF red D 0 40 Y Y 1 F N
+F0 "D" -100 -125 50 H V L BNN
+F1 "red" -100 -200 50 H V L BNN
 F2 "footprints:LED_5mm" -100 -450 50 H I L BNN
-F3 "LED; Thru-Hole; Green; T1-3/4; 5mm; Green Lens; 25mA; 565 nm; 2 mcd; Round" -100 -350 50 H I L BNN
+F3 "" -100 -350 50 H I L BNN
 DRAW
 P 2 0 0 10 0 -50 0 0 N
 P 2 0 0 10 0 0 0 50 N

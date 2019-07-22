@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP .38mH
-D .38mH Inductor
+$CMP 10k
+D 10k Potentiometer
 $ENDCMP
 #
 #End Doc Library

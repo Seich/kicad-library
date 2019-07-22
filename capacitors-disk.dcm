@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP .1uF
+D .1uf Disk Capacitor
+$ENDCMP
+#
+$CMP 0.0042uF
+D 0.0042uf Disk Capacitor
+$ENDCMP
+#
+$CMP 100uF
+D 100uF Disk Capacitor
+$ENDCMP
+#
+$CMP 1uF
+D 1uF Disk Capacitor
+$ENDCMP
+#
+$CMP 22pF
+D 22pF Disk Capacitor
+$ENDCMP
+#
+#End Doc Library
